@@ -1,352 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e76630ee-833c-40fd-9c4d-58180da09035" name="Default" comment="two">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/build.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/build.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/bui-min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/bui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/build.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/demo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/dpl-min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/dpl.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/main-min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/new.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/page-min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/page.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/prettify.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/calendar-200-300.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/check_icon-100-100.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/checkbox.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/hide_list.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/icon-806-614.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/left-slib.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/load-16-16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/main-nav-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/main-nav-bg1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/menu-500-188.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/menu.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/nav.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/nav_selected.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/radio_icon-64-40.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/resource.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/separator-2-340.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/sprite-469-300.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/tab-140-120.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/table-191-450.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/tree.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/tree_icon-80-100.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/img/white_sprite-469-300.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/bui-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/bui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/common/build.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/common/main-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/common/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/common/page-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/common/page.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/common/search-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/common/search.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/config-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/extensions/treegrid-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/extensions/treepicker-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/jquery-1.11.0.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/jquery-1.8.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/module/build.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/paginathing.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/prettify.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/slider-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/INSTALL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/KEYS" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/NOTICE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/WHATSNEW" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/ant" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/ant.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/ant.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/antRun" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/antRun.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/antRun.pl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/antenv.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/complete-ant-cmd.pl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/envset.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/lcp.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/runant.pl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/runant.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/bin/runrc.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/ant-bootstrap.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/changelog.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/checkstyle/checkstyle-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/checkstyle/checkstyle-text.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/checkstyle/checkstyle-xdoc.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/coverage-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/jdepend-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/jdepend.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/junit-frames-xalan1.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/junit-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/junit-noframes.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/log.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/maudit-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/mmetrics-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/etc/tagdiff.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/fetch.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/get-m2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-antlr.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-antlr.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-bcel.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-bcel.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-bsf.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-bsf.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-log4j.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-log4j.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-oro.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-oro.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-regexp.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-regexp.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-resolver.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-resolver.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-xalan2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-apache-xalan2.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-commons-logging.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-commons-logging.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-commons-net.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-commons-net.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-contrib-1.0b3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-jai.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-jai.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-javamail.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-javamail.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-jdepend.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-jdepend.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-jmf.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-jmf.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-jsch.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-jsch.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-junit.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-junit.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-junit4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-junit4.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-launcher.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-launcher.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-netrexx.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-netrexx.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-nodeps.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-nodeps.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-parent.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-swing.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-swing.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-testutil.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant-testutil.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ant.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/bcel-5.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/commons-httpclient-3.0.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/commons-logging-1.0.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/ivy-1.3.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/ant/lib/libraries.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/tools/yuicompressor.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/build.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/build.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/bui-min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/bui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/build.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/demo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/dpl-min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/dpl.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/main-min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/new.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/page-min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/page.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/css/prettify.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/calendar-200-300.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/check_icon-100-100.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/checkbox.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/hide_list.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/icon-806-614.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/left-slib.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/load-16-16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/main-nav-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/main-nav-bg1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/menu-500-188.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/menu.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/nav.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/nav_selected.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/radio_icon-64-40.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/resource.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/separator-2-340.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/sprite-469-300.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/tab-140-120.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/table-191-450.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/tree.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/tree_icon-80-100.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/img/white_sprite-469-300.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/bui-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/bui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/common/build.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/common/main-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/common/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/common/page-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/common/page.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/common/search-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/common/search.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/config-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/extensions/treegrid-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/extensions/treepicker-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/jquery-1.11.0.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/jquery-1.8.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/module/build.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/paginathing.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/prettify.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/js/slider-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/INSTALL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/KEYS" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/NOTICE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/WHATSNEW" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/ant" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/ant.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/ant.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/antRun" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/antRun.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/antRun.pl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/antenv.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/complete-ant-cmd.pl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/envset.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/lcp.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/runant.pl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/runant.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/runrc.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/ant-bootstrap.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/changelog.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/checkstyle/checkstyle-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/checkstyle/checkstyle-text.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/checkstyle/checkstyle-xdoc.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/coverage-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/jdepend-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/jdepend.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/junit-frames-xalan1.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/junit-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/junit-noframes.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/log.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/maudit-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/mmetrics-frames.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/tagdiff.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/fetch.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/get-m2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-antlr.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-antlr.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-bcel.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-bcel.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-bsf.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-bsf.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-log4j.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-log4j.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-oro.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-oro.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-regexp.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-regexp.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-resolver.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-resolver.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-xalan2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-xalan2.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-commons-logging.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-commons-logging.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-commons-net.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-commons-net.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-contrib-1.0b3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jai.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jai.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-javamail.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-javamail.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jdepend.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jdepend.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jmf.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jmf.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jsch.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jsch.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-junit.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-junit.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-junit4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-junit4.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-launcher.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-launcher.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-netrexx.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-netrexx.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-nodeps.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-nodeps.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-parent.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-swing.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-swing.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-testutil.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-testutil.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant.pom" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/bcel-5.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/commons-httpclient-3.0.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/commons-logging-1.0.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ivy-1.3.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/libraries.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/assets/tools/yuicompressor.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/data/add.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/data/city.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/data/del.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/data/edit.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/data/remote1.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/data/student.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/data/student.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/detail/code.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/detail/example.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/detail/example.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/detail/introduce.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/detail/introduce.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/advalid.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/basicValid.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/code.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/depends.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/dialog-grid.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/example.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/fail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/form-dialog-grid.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/form-grid.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/grid.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/group.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/introduce.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/remote.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/form/success.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/help/net.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main/code.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main/dyna-menu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main/loader.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main/menu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main/operation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main/quick.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main/resource.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main/second-menu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main/skill.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/main/test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/search/code.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/search/config.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/search/edit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/search/example-dialog.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/search/example.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/search/introduce.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/search/operation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/search/success.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/search/tab.html" />
+    <list default="true" id="e76630ee-833c-40fd-9c4d-58180da09035" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/speak/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/speak/utils/NavieBayes_Classifier.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/speak/views.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/css/login-style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/static/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/erro.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/team_work.iml" afterPath="$PROJECT_DIR$/.idea/team_work.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" afterPath="$PROJECT_DIR$/app/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/app/admin/forms.py" afterPath="$PROJECT_DIR$/app/admin/forms.py" />
+      <change beforePath="$PROJECT_DIR$/app/admin/views.py" afterPath="$PROJECT_DIR$/app/admin/views.py" />
+      <change beforePath="$PROJECT_DIR$/app/models.py" afterPath="$PROJECT_DIR$/app/models.py" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/app/static/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/build.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/build.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/bui-min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/bui.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/build.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/demo.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/dpl-min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/dpl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/main-min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/new.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/page-min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/page.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/css/prettify.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/calendar-200-300.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/check_icon-100-100.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/checkbox.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/hide_list.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/icon-806-614.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/left-slib.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/load-16-16.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/main-nav-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/main-nav-bg1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/menu-500-188.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/menu.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/nav.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/nav_selected.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/radio_icon-64-40.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/resource.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/separator-2-340.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/sprite-469-300.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/tab-140-120.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/table-191-450.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/tree.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/tree_icon-80-100.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/img/white_sprite-469-300.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/bui-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/bui.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/common/build.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/common/main-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/common/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/common/page-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/common/page.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/common/search-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/common/search.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/config-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/extensions/treegrid-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/extensions/treepicker-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/jquery-1.11.0.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/jquery-1.8.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/module/build.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/paginathing.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/prettify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/js/slider-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/INSTALL" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/KEYS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/NOTICE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/WHATSNEW" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/ant" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/ant.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/ant.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/antRun" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/antRun.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/antRun.pl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/antenv.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/complete-ant-cmd.pl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/envset.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/lcp.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/runant.pl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/runant.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/bin/runrc.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/ant-bootstrap.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/changelog.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/checkstyle/checkstyle-frames.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/checkstyle/checkstyle-text.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/checkstyle/checkstyle-xdoc.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/coverage-frames.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/jdepend-frames.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/jdepend.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/junit-frames-xalan1.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/junit-frames.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/junit-noframes.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/log.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/maudit-frames.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/mmetrics-frames.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/etc/tagdiff.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/fetch.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/get-m2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-antlr.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-antlr.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-bcel.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-bcel.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-bsf.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-bsf.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-log4j.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-log4j.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-oro.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-oro.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-regexp.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-regexp.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-resolver.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-resolver.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-xalan2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-apache-xalan2.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-commons-logging.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-commons-logging.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-commons-net.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-commons-net.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-contrib-1.0b3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jai.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jai.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-javamail.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-javamail.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jdepend.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jdepend.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jmf.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jmf.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jsch.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-jsch.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-junit.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-junit.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-junit4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-junit4.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-launcher.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-launcher.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-netrexx.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-netrexx.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-nodeps.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-nodeps.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-parent.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-swing.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-swing.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-testutil.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant-testutil.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ant.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/bcel-5.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/commons-httpclient-3.0.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/commons-logging-1.0.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/ivy-1.3.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/ant/lib/libraries.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/assets/tools/yuicompressor.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/data/add.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/data/city.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/data/del.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/data/edit.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/data/remote1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/data/student.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/data/student.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/detail/code.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/detail/example.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/detail/example.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/detail/introduce.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/detail/introduce.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/advalid.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/basicValid.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/code.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/depends.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/dialog-grid.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/example.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/fail.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/form-dialog-grid.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/form-grid.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/grid.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/group.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/introduce.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/remote.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/form/success.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/help/net.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/templates/admin/login.html" afterPath="$PROJECT_DIR$/app/templates/admin/login.html" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/main/code.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/main/dyna-menu.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/main/loader.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/main/menu.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/main/operation.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/main/quick.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/main/resource.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/main/second-menu.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/main/skill.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/main/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/search/code.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/search/config.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/search/edit.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/search/example-dialog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/search/example.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/search/introduce.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/search/operation.html" afterPath="$PROJECT_DIR$/app/speak/utils/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/search/success.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/templates/admin/search/tab.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -357,27 +234,19 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/movie_flask$manage.coverage" NAME="manage Coverage Results" MODIFIED="1519665500370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/movie_flask$models.coverage" NAME="models Coverage Results" MODIFIED="1519663239616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/movie_flask$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1519662993558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
-    <SUITE FILE_PATH="coverage/team_work$manage.coverage" NAME="manage Coverage Results" MODIFIED="1519713362100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/team_work$manage.coverage" NAME="manage Coverage Results" MODIFIED="1519801782673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/movie_flask$models.coverage" NAME="models Coverage Results" MODIFIED="1519663239616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/team_work$models.coverage" NAME="models Coverage Results" MODIFIED="1519784011521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/team_work$views.coverage" NAME="views Coverage Results" MODIFIED="1519784303578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/admin" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ant" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/static/tools/ant/bin/ant">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
-              <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="210">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -386,18 +255,18 @@
       <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/templates/admin/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tab.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/admin/search/tab.html">
+      <file leaf-file-name="erro.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/admin/erro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -406,50 +275,8 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/admin/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="25" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/admin/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-              <folding>
-                <element signature="e#14#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/admin/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/home/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="450">
+              <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -466,6 +293,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -481,11 +309,15 @@
         <option value="$PROJECT_DIR$/app/templates/home/register.html" />
         <option value="$PROJECT_DIR$/app/templates/home/404.html" />
         <option value="$PROJECT_DIR$/app/home/views.py" />
-        <option value="$PROJECT_DIR$/app/__init__.py" />
-        <option value="$PROJECT_DIR$/app/models.py" />
-        <option value="$PROJECT_DIR$/app/admin/views.py" />
-        <option value="$PROJECT_DIR$/app/templates/admin/login.html" />
+        <option value="$PROJECT_DIR$/app/templates/admin/erro.html" />
         <option value="$PROJECT_DIR$/app/admin/forms.py" />
+        <option value="$PROJECT_DIR$/app/templates/admin/login.html" />
+        <option value="$PROJECT_DIR$/app/admin/views.py" />
+        <option value="$PROJECT_DIR$/app/models.py" />
+        <option value="$PROJECT_DIR$/app/speak/__init__.py" />
+        <option value="$PROJECT_DIR$/app/__init__.py" />
+        <option value="$PROJECT_DIR$/app/speak/views.py" />
+        <option value="$PROJECT_DIR$/app/speak/utils/NavieBayes_Classifier.py" />
       </list>
     </option>
   </component>
@@ -496,9 +328,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="584" />
-    <option name="width" value="780" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -543,39 +376,27 @@
               <item name="team_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="team_work" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="speak" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="team_work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="team_work" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="speak" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="team_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="team_work" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="team_work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="team_work" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="team_work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="team_work" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="team_work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="team_work" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -588,9 +409,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\PycharmProjects\team_work\app\templates\admin" />
-      <recent name="C:\Users\Administrator\PycharmProjects\team_work\app\static" />
-      <recent name="C:\Users\74993\PycharmProjects\movie_flask\app\home" />
+      <recent name="C:\Users\74993\PycharmProjects\team_work\app\templates\admin\search" />
+      <recent name="C:\Users\74993\PycharmProjects\team_work\app\templates\admin" />
+      <recent name="C:\Users\74993\PycharmProjects\team_work\app\static\js" />
+      <recent name="C:\Users\74993\PycharmProjects\team_work\app\static" />
+      <recent name="C:\Users\74993\PycharmProjects\team_work\app\static\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -605,7 +428,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.main.html">
+  <component name="RunManager" selected="Python.manage">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -625,6 +448,7 @@
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
     </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/team_work/app/templates/admin/login.html" />
     <configuration name="main.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/team_work/app/templates/admin/main.html" />
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -652,32 +476,13 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="ADDITIONAL_ARGS" value="" />
     </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="movie_flask" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Administrator\PycharmProjects\untitled\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\74993\AppData\Local\Programs\Python\Python35-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -696,14 +501,33 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\74993\AppData\Local\Programs\Python\Python35-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="team_work" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/admin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="movie_flask" />
+      <module name="team_work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/models.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/admin/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -802,18 +626,20 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.manage" />
-      <item index="1" class="java.lang.String" itemvalue="Python.models" />
-      <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.main.html" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.main.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.login.html" />
+      <item index="2" class="java.lang.String" itemvalue="Python.manage" />
+      <item index="3" class="java.lang.String" itemvalue="Python.models" />
+      <item index="4" class="java.lang.String" itemvalue="Python.views" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.main.html" />
-        <item index="1" class="java.lang.String" itemvalue="Python.manage" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.manage" />
+        <item index="1" class="java.lang.String" itemvalue="Python.views" />
         <item index="2" class="java.lang.String" itemvalue="Python.models" />
-        <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.login.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.main.html" />
       </list>
     </recent_temporary>
   </component>
@@ -833,7 +659,7 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView" selected-index="4">
+  <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -843,29 +669,51 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49342105" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29782608" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4925865" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7302632" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.009782609" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3326226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4184514" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19604613" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4003295" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23373677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49342105" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42002177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2992383" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.009782609" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17750533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -875,7 +723,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="two" />
-    <option name="LAST_COMMIT_MESSAGE" value="two" />
+    <MESSAGE value="第三次更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -884,6 +733,82 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/admin/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="25" column="41" lean-forward="false" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="e#30#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/tools/ant/bin/ant">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/admin/search/tab.html" />
+    <entry file="file://$PROJECT_DIR$/app/templates/admin/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="e#14#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="e#30#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/admin/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/admin/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -898,7 +823,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="e#30#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -906,9 +833,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#9#48#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -942,41 +867,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/admin/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/home/home.py" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/err.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/home/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1002,6 +897,64 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/wsgiref/validate.py" />
+    <entry file="file://$PROJECT_DIR$/app/static/tools/ant/bin/ant">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/admin/search/tab.html" />
+    <entry file="file://$PROJECT_DIR$/app/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/home/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/css/login-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/wtforms/fields/simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="63" column="6" lean-forward="false" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/admin/search/main/code.html" />
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/home/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1009,68 +962,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/static/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/werkzeug/security.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="233" column="4" lean-forward="false" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/admin/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="900">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/admin/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="-763">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding>
             <element signature="e#14#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="480">
+          <caret line="18" column="59" lean-forward="false" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
           <folding>
-            <element signature="e#9#48#0" expanded="false" />
+            <element signature="e#30#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/werkzeug/wrappers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="193">
+          <caret line="467" column="8" lean-forward="false" selection-start-line="467" selection-start-column="8" selection-end-line="467" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/speak/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/static/tools/ant/bin/ant">
+    <entry file="file://$PROJECT_DIR$/app/speak/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#29#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/admin/search/tab.html">
+    <entry file="file://$PROJECT_DIR$/app/speak/utils/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1078,18 +1059,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/speak/utils/NavieBayes_Classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="e#93#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/admin/erro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/admin/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="450">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/admin/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>

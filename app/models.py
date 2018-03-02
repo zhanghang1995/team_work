@@ -25,18 +25,20 @@ class Test(db.Model):
     __table_args__ = {"useexisting": True}
     # __table_args__ = {"useexisting": True}
     id = db.Column(db.INTEGER, primary_key=True)
-    username = db.Column(db.String(100), unique=True)
+    username = db.Column(db.String(100))
     password = db.Column(db.String(100))
     def __repr__(self):
         return "<User %r>"%self.username
-
+    def check_pwd(self, password):
+        from werkzeug.security import check_password_hash
+        return check_password_hash(self.password, password)
 
 #用于测试
 
 # if __name__ == "__main__":
 #     db.create_all()
 #     user = Test(
-#         username="kingdom",
+#         username="kingdom520",
 #         password="king"
 #     )
 #     db.session.add(user)
