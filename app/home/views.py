@@ -5,7 +5,7 @@ from flask import render_template,redirect,url_for
 
 @home.route("/")
 def index():
-    return render_template("home/index.html")
+    return render_template("admin/main/test.html")
 
 @home.route("/login/")
 def login():

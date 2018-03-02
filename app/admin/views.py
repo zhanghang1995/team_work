@@ -27,3 +27,23 @@ def login():
         return redirect(url_for('admin.index'))
     return render_template("admin/login.html", form=form)
 
+@admin.route('/skill')
+def menu():
+    return render_template('admin/main/skill.html')
+
+@admin.route('/menu')
+def menu():
+    return render_template('admin/main/test.html')
+
+@admin.route('/operation')
+def operation():
+    return render_template('admin/main/operation.html')
+
+@admin.route('/resource')
+def menu():
+    return render_template('admin/main/resource.html')
+
+@admin.route('/loader')
+def menu():
+    return render_template('admin/main/loader.html')
+
