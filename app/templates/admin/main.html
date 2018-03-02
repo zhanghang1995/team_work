@@ -3,9 +3,9 @@
  <head>
   <title>AI人工智能后台管理系统</title>
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-   <link href="assets/css/dpl-min.css" rel="stylesheet" type="text/css" />
-  <link href="assets/css/bui-min.css" rel="stylesheet" type="text/css" />
-   <link href="assets/css/main-min.css" rel="stylesheet" type="text/css" />
+   <link href="{{ url_for('static',filename='assets/css/dpl-min.css') }}"rel="stylesheet" type="text/css" />
+   <link href="{{ url_for('static',filename='assets/css/bui-min.css') }}" rel="stylesheet" type="text/css" />
+   <link href="{{ url_for('static',filename='assets/css/main-min.css') }}" rel="stylesheet" type="text/css" />
  </head>
  <body>
 
@@ -31,9 +31,9 @@
 
     </ul>
    </div>
-  <script type="text/javascript" src="assets/js/jquery-1.8.1.min.js"></script>
-  <script type="text/javascript" src="./assets/js/bui.js"></script>
-  <script type="text/javascript" src="./assets/js/config.js"></script>
+  <script type="text/javascript" src="{{ url_for('static',filename='assets/js/jquery-1.8.1.min.js') }}"></script>
+  <script type="text/javascript" src="{{ url_for('static',filename='assets/js/bui.js') }}"></script>
+  <script type="text/javascript" src="{{ url_for('static',filename='assets/js/config.js') }}"></script>
 
   <script>
     BUI.use('common/main',function(){
@@ -43,7 +43,7 @@
           menu:[{
               text:'技能管理',
               items:[
-                {id:'Custom-Ability',text:'自定义技能',href:'main/skill.html'},
+                {id:'Custom-Ability1',text:'自定义技能',href:'skill.html'},
                 {id:'Preset-skills',text:'预置技能',href:'main/menu.html'},
               ]
             },{

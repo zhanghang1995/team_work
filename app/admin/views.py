@@ -19,8 +19,8 @@ def login():
         data = form.data
         admin = Test.query.filter_by(username=data["username"]).first()
         # 密码错误时，check_pwd返回false,则此时not check_pwd(data["pwd"])为真。
-        if admin is None or not admin.check_pwd(data["password"]):
-            flash("密码错误!")
+        if admin is None or admin.password != data["password"]:
+            flash("用户名或密码错误!")
             return redirect(url_for("admin.login"))
         # 如果是正确的，就要定义session的会话进行保存。
         session["admin"] = data["username"]

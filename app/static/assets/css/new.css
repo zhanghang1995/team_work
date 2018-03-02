@@ -1,0 +1,20 @@
+.font-title{padding-top: 50px; padding-left: 20px;}
+h1{font-size:30px; color: black; font-family: "微软雅黑" }
+.table-title{width: 100%; float:left; margin-top: 20px;}
+.na{width:200px;height:30px; float:left; background:#D3D3D3; margin-left:10px; }
+.na p{margin-left: 20px; margin-top: 5px;}
+.other-na{width:200px;height:30px;float:left;background: #D3D3D3;margin-left:10px;}
+.other-na p{margin-left: 20px; margin-top: 5px;}
+.a-type{width:200px;height:30px; float:left;background: #D3D3D3;margin-left:10px;}
+.a-type p{ margin-left: 20px; margin-top: 5px;}
+.describe{width:200px;height:30px;float:left;background: #D3D3D3;margin-left:10px;}
+.describe p{margin-left: 20px; margin-top: 5px; }
+.operation{width:200px;height:30px;float:left; background:#D3D3D3;margin-left:10px;}
+.operation p{margin-left: 20px; margin-top: 5px; }
+.table2{margin-left: 10px; width:1040px; table-layout: fixed}
+.table2 td{height: 30px;  text-align: left; border-bottom: solid 1px #DBDBDB;}
+.s-td1{width:200px; margin-left: 20px;}
+.s-td2{width:200px; margin-left: 20px;}
+.s-td3{width:200px;padding-left:25px;}
+.s-td4{width:200px;padding-left:27px;}
+.s-td5{width:200px;padding-left:27px;}
