@@ -5,6 +5,7 @@ from . import speak
 from flask import url_for,request,render_template,Response
 import json
 from app.utils.WordTag import possegation
+from app.service.searchWeather import seweather
 
 @speak.route("/",methods=["GET", "POST"])
 def index():
@@ -17,6 +18,7 @@ def Response_headers(content):
 
 @speak.route("/deal",methods=["POST"])
 def speak():
+    list_data = []
     if request.method == 'POST'and request.form.get('userwords'):
         # POST:
         # request.form获得所有post参数放在一个类似dict类中,to_dict()是字典化
@@ -29,9 +31,15 @@ def speak():
         # content = str(datax)
         # resp = Response_headers(content)
         # return resp
-        data = request.form.to_dict()
+        data = request.form.to_dict().get('userwords','')
         words = possegation(data)
-        content = str(words)
+        for key in words:
+            # 只先提提取出用户的名词和动词
+            if words[key] == 'ns':
+                if key is not None:
+                    list_data.append(key)
+        result = seweather(list_data[0])
+        content = str(result)
         resp = Response_headers(content)
         return resp
     else:

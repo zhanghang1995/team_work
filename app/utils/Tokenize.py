@@ -13,5 +13,3 @@ def tokenize_Word(data):
 def tokenize_Search_Word(data):
     seg_list = jieba.cut_for_search(data)  # 搜索引擎模式
     print(", ".join(seg_list))
-
-
