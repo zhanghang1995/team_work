@@ -7,6 +7,7 @@ app.config["SQLALCHEMY_DATABASE_URI"]="mysql+pymysql://root:950929@localhost:330
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"]=True
 app.config["SECRET_KEY"] = "7280af24be5d46fea1d15a0904da438f"
 app.debug = True
+
 db = SQLAlchemy(app)
 
 from app.home import home as home_blueprint

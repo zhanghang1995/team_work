@@ -28,7 +28,7 @@ def login():
     return render_template("admin/login.html", form=form)
 
 @admin.route('/skill')
-def menu():
+def skill():
     return render_template('admin/main/skill.html')
 
 @admin.route('/menu')
@@ -40,10 +40,10 @@ def operation():
     return render_template('admin/main/operation.html')
 
 @admin.route('/resource')
-def menu():
+def resource():
     return render_template('admin/main/resource.html')
 
 @admin.route('/loader')
-def menu():
+def loader():
     return render_template('admin/main/loader.html')
 
