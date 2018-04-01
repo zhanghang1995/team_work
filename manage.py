@@ -2,4 +2,4 @@
 from app import app
 
 if __name__ == "__main__":
-    app.run("192.168.0.122")
+    app.run("192.168.0.121")

@@ -4,7 +4,7 @@
 from . import speak
 from flask import url_for,request,render_template,Response
 import json
-from app.utils.WordTag import possegation
+from app.utils.wordTag import possegation
 from app.service.searchWeather import seweather
 
 @speak.route("/",methods=["GET", "POST"])
@@ -33,6 +33,10 @@ def speak():
         # return resp
         data = request.form.to_dict().get('userwords','')
         words = possegation(data)
+        '''
+            此处获取用户的语言后进行意图的识别与判断
+        '''
+
         for key in words:
             # 只先提提取出用户的名词和动词
             if words[key] == 'ns':

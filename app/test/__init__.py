@@ -1,5 +1,5 @@
 #用于测试使用
-from app.utils.WordTag import possegation
+from app.utils.wordTag import possegation
 
 
 data = possegation("北京天气如何")

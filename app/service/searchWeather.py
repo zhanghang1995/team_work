@@ -13,21 +13,19 @@ def seweather(city):
     res = res.read()
     data = res.decode(encoding='utf-8')
     result = json.loads(data)
-    print(result)
-    print(result['status'])
-    print(result['count'])
-    print(result['info'])
-    # print(result_data['words_result'])
-    for result in result['lives']:
-        province = result['province']
-        city = result['city']
-        weather = result['weather']
-        temperature = result['temperature']
-        list.append(province)
-        list.append(city)
-        list.append(weather)
-        list.append(temperature)
-    print(list)
+
+    #判断请求是否成功
+    if result['status'] == '1' and result['infocode'] == '10000':
+        for result in result['lives']:
+            province = result['province']
+            city = result['city']
+            weather = result['weather']
+            temperature = result['temperature']
+            list.append(province)
+            list.append(city)
+            list.append(weather)
+            list.append(temperature)
+        print(list)
     return list
 
 
