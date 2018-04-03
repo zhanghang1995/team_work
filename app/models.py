@@ -34,6 +34,45 @@ class Test(db.Model):
         return check_password_hash(self.password, password)
 
 #用于测试
+class Remind(db.Model):
+    __tablename__ = 'life_remind'
+    __table_args__ = {"useexisting": True}
+    id = db.Column(db.INTEGER,primary_key=True)
+    getup = db.Column(db.time)
+    breakfast = db.Column(db.varchar(150))
+    readnews = db.Column(db.varchar(120))
+    newspush = db.Column(db.varchar(120))
+    cheat = db.Column(db.text)
+    gowork = db.Column(db.text)
+    work = db.Column(db.text)
+    lunch = db.Column(db.varchar(150))
+    lunchbreak = db.Column(db.time)
+    workarrangement = db.Column(db.text)
+    worksummary = db.Column(db.text)
+    dinner = db.Column(db.varchar(150))
+    eveactivities = db.Column(db.varchar(150))
+    sleep = db.Column(db.time)
+    time = db.relationship('Time', backref='author', uselist=False)
+
+
+
+class Time(db.Model):
+    __tablename__ = 'time'
+    __table_args__ = {"useexisting": True}
+    id = db.Column(db.INTEGER,primary_key=True)
+    breakfast_t = db.Column(db.time)
+    readnews_t = db.Column(db.time)
+    newspush_t = db.Column(db.time)
+    cheat_t = db.Column(db.time)
+    gowork_t = db.Column(db.time)
+    work_t = db.Column(db.time)
+    lunch_t = db.Column(db.time)
+    workarrangement_t = db.Column(db.time)
+    worksummary_t = db.Column(db.time)
+    dinner_t = db.Column(db.time)
+    seveactivities_t = db.Column(db.time)
+    remind_id_t = db.Column(db.INTEGER,db.ForeignKey('remind.id'))
+
 
 # if __name__ == "__main__":
 #     db.create_all()
