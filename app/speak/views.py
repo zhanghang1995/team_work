@@ -3,12 +3,12 @@
 
 from . import speak
 from flask import url_for,request,render_template,Response
+from app.service.remind import sevice_deal
 import json
-from app.utils.wordTag import possegation
-from app.service.searchWeather import seweather
-from app.utils.time import get_time
-from app.utils.constant import DINNER_TIME1,DINNER_TIME2
 
+# import pynlpir
+#
+# segment = pynlpir.segment("我要吃鱼香肉丝",pos_names='all')
 @speak.route("/",methods=["GET", "POST"])
 def index():
     return render_template("speak/speak.html", )
@@ -36,7 +36,7 @@ def speak():
     #     #此处获取用户返回的语音信息
     #     data = request.form.to_dict()
     #     if data['type'] == '0':
-    #         if data['userwords'] == '好的':
+    #         if data['userwords'] == '早餐提醒':
     #             if get_time() > DINNER_TIME1 and get_time() < DINNER_TIME2:
     #                 content = str("晚饭想吃什么呢？")
     #                 resp = Response_headers(content)
@@ -69,3 +69,7 @@ def speak():
     #     return resp
 
 
+    data = json.loads(request.data)
+    content = sevice_deal(data)
+    resp = Response_headers(content)
+    return resp

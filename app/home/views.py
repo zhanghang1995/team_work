@@ -9,7 +9,7 @@ def index():
 
 @home.route("/login/")
 def login():
-    return render_template("home/login.html")
+    return render_template("home/1.png")
 
 @home.route("/logout/")
 def logout():
